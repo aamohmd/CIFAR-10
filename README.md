@@ -24,12 +24,9 @@ The project demonstrates the training of the VGG-16 model for image classificati
 ## Usage
 
 Run the notebook cifar10.ipynb to train and evaluate the model.
-Results
+## Results
 
 The model achieves good accuracy on the CIFAR-10 test set after training.
-License
+## License
 
 This project is licensed under the MIT License.
-
-This version excludes the dependencies section.
-
